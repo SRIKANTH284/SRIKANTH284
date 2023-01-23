@@ -1,8 +1,8 @@
 ![logo](https://github.com/SRIKANTH284/SRIKANTH284/blob/main/banner.v1.png)
 <h1 align="center">Hi 👋, I'm BADAVATH SRIKANTH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif/v1/fit/w_320,h_206,al_c,q_80,enc_auto/file.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanth284&label=Profile%20views&color=0e75b6&style=flat" alt="srikanth284" /> </p>
 - ⚡ Fun fact **I think I am funny**
