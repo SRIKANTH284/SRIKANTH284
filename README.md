@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/@badavathias" target="blank"><img src="https://img.shields.io/twitter/follow/@badavathias?logo=twitter&style=for-the-badge" alt="@badavathias" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, ReactJS, and Data Science**
+- 🌱 I’m currently learning **Flutter, ReactJS, and Data Science,AWS,Devops**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
