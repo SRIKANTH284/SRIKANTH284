@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm BADAVATH SRIKANTH</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="center" alt="coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif/v1/fit/w_320,h_206,al_c,q_80,enc_auto/file.gif">
+<img align="centre" alt="coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif/v1/fit/w_320,h_206,al_c,q_80,enc_auto/file.gif">
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=srikanth284&label=Profile%20views&color=0e75b6&style=flat" alt="srikanth284" /> </p>
