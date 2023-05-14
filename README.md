@@ -6,7 +6,20 @@
 
 
 <p align="down"> <img src="https://komarev.com/ghpvc/?username=srikanth284&label=Profile%20views&color=0e75b6&style=flat" alt="srikanth284" /> </p>
-- ⚡ Fun fact **I think I am funny**
+
+
+## 🙋‍♂️ About Me
+
+
+- 🌱 I’m currently learning **DevOps.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/SRIKANTH284)**
+
+- 📫 How to reach me **badavathsrikanth149@icloud.com**
+
+- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikanth284" alt="srikanth284" /></a> </p>
