@@ -5,7 +5,7 @@
 <img align="centre" alt="coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif/v1/fit/w_320,h_206,al_c,q_80,enc_auto/file.gif">
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=srikanth284&label=Profile%20views&color=0e75b6&style=flat" alt="srikanth284" /> </p>
+<p align="down"> <img src="https://komarev.com/ghpvc/?username=srikanth284&label=Profile%20views&color=0e75b6&style=flat" alt="srikanth284" /> </p>
 - ⚡ Fun fact **I think I am funny**
 
 
