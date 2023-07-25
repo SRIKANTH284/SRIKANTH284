@@ -1,6 +1,15 @@
 ![logo](https://github.com/SRIKANTH284/SRIKANTH284/blob/main/banner.v1.png)
 <h1 align="center">Hi 👋, I'm BADAVATH SRIKANTH</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">WELCOME TO MY GITHUB PROFILE👇 </h1>
+
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Badavath Srikanth;+Lead+Machine+Learning+Engineer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Open+Source+Contributor+✌;+💡;+Building+Next+Gen+SaaS+🕵;+📢;+🤝;+Beta+Tester+and+Freelancer+⌚;">
+</p> 
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
 
 <img align="centre" alt="coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif/v1/fit/w_320,h_206,al_c,q_80,enc_auto/file.gif">
 
