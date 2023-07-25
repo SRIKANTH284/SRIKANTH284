@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/SRIKANTH284)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://srikanth.me/)**
 
 - 📫 How to reach me **badavathsrikanth149@icloud.com**
 
