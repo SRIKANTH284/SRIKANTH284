@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <h1 align="center">WELCOME TO MY GITHUB PROFILE👇 </h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=..+Hey+There+👋,+I'm+Badavath+Srikanth;+Lead+Machine+Learning+Engineer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Open+Source+Contributor+✌;+💡;+Building+Next+Gen+SaaS+🕵;+📢;+🤝;+Beta+Tester+and+Freelancer+⌚;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=.+.+Hey+There+👋,+I'm+Badavath+Srikanth;+Lead+Machine+Learning+Engineer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Open+Source+Contributor+✌;+💡;+Building+Next+Gen+SaaS+🕵;+Beta+Tester+and+Freelancer+⌚;">
 </div>
 <a href="https://github.com/404">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Profile">
