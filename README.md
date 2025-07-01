@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://srikanthbadavath.com/)**
 
-- 📫 How to reach me **badavathsrikanth149@icloud.com**
+- 📫 How to reach me **badavathsrikanth149@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
