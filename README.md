@@ -76,7 +76,7 @@
 <a href="https://www.codechef.com/users/srikanth93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srikanth93" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@badavathsrikant1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@badavathsrikant1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/srikanth2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srikanth2024" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/badavath srikanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="badavath srikanth" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/12019441/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="badavath srikanth" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@badavath11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@badavath11" height="30" width="40" /></a>
 </p>
 
