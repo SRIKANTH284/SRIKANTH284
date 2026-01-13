@@ -103,4 +103,16 @@
   <br />
 </details>
 
+<h3>⚡ LeetCode Stats</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/u/12019441/" target="_blank">
+    <img
+      src="https://leetcard.jacoblin.cool/12019441?theme=dark&font=Noto%20Serif%20Tamil&ext=heatmap"
+      alt="LeetCode Stats"
+    />
+  </a>
+</p>
+
+
 
