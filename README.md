@@ -93,4 +93,12 @@
   <img src="https://raw.githubusercontent.com/SRIKANTH284/SRIKANTH284/main/assets/top-langs.svg" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SRIKANTH284/SRIKANTH284/main/assets/streak.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SRIKANTH284/SRIKANTH284/main/assets/trophy.svg" />
+</p>
+
 
