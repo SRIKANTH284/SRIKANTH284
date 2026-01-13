@@ -86,18 +86,18 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SRIKANTH284/SRIKANTH284/main/assets/stats.svg?v=1" />
+  <img src="./assets/stats.svg" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SRIKANTH284/SRIKANTH284/main/assets/top-langs.svg?v=1" />
+  <img src="./assets/top-langs.svg" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SRIKANTH284/SRIKANTH284/main/assets/streak.svg?v=1" />
+  <img src="./assets/streak.svg" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SRIKANTH284/SRIKANTH284/main/assets/trophy.svg?v=1" />
+  <img src="./assets/trophy.svg" alt="trophy" />
 </p>
 
