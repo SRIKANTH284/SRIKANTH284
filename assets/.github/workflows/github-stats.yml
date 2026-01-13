@@ -1,0 +1,36 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once per day
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: srikanth284
+          show_icons: true
+          theme: dark
+          output: assets/stats.svg
+
+      - name: Generate Top Languages
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: srikanth284
+          layout: compact
+          theme: dark
+          output: assets/top-langs.svg
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add assets/
+          git commit -m "Update GitHub stats" || exit 0
+          git push
